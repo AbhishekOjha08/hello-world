@@ -1,2 +1,2 @@
 # hello-world
-A program on c++
+> A program on c++ :joy:
